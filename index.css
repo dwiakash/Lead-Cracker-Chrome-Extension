@@ -1,0 +1,27 @@
+#input-el{
+width: 600px;
+height: 28px;
+background-color: rgb(253, 243, 229);
+text-align:center;
+box-sizing: border-box;
+}
+button{
+    margin: 11px 7px;
+width: 132px;
+height: 42px;
+}
+
+ul{
+margin-top: 20px;
+list-style: none;
+padding-left: 0;
+
+}
+li{
+margin: 5px;
+
+}
+
+ul li a{
+color: green;
+}
